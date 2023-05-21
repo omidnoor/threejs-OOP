@@ -7,7 +7,7 @@ import Renderer from "./Renderer.js";
 import World from "./World/World.js";
 import Resources from "./Utils/Resources.js";
 import Debug from "./Utils/Debug.js";
-import sources from "./Sources.js";
+import sources from "./sources.js";
 
 let instance = null;
 
